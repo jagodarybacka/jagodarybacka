@@ -1,10 +1,10 @@
-<h3 align="center">✨ Hello! I'm Berry! ✨</h3>
+<h1 align="center">✨ Hello! I'm Berry! ✨</h1>
 <p align="center">
-  <a href="https://jagodarybacka.github.io/">Portfolio</a> •
-  <a href="mailto: berry.rybacka@gmail.com">Contact</a>
+  <a href="https://jagodarybacka.github.io/">💮 Portfolio</a> 💮
+  <a href="mailto: berry.rybacka@gmail.com">Contact 💮</a>
 </p>
 
-## About me
+### About me
 
 - 💜 My name is Jagoda (it translates to Berry)
 - 🚺 Pronouns: she/her
