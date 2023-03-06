@@ -1,15 +1,1 @@
-<h1 align="center">✨ Hello! I'm Berry! ✨</h1>
-<p align="center">
-  <a href="https://jagodarybacka.github.io/">💮 Portfolio</a> 💮
-  <a href="mailto: berry.rybacka@gmail.com">Contact 💮</a>
-</p>
-
-### About me
-
-- 💜 My name is Jagoda (it translates to Berry)
-- 🚺 Pronouns: she/her
-- 🚀 I'm working with Javascript since 2016
-- 🧪 I like to transform data into meaningful things
-- 📖 Love to teach others about programming
-- 🌠 I'm looking for interesting projects I can join
-- ⛸ Besides programming I roller skate
+![image0](https://user-images.githubusercontent.com/20949277/223269489-21fcc372-cafc-4d82-a653-6b2e223b54da.png)
